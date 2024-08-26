@@ -1,9 +1,9 @@
 # SmartGanjaGarden.grafana
-Monitoring and Documentation
+### Monitoring and Documentation
 
 <details open>
   <summary>Mobile Dashboards</summary>
-
+<br>
   <details open>
     <summary>DryBox Dashboards Mobile</summary>
   
