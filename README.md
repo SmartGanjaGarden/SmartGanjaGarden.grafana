@@ -7,9 +7,9 @@
   <details open>
     <summary>DryBox Dashboards Mobile</summary>
   
-  ### DryBox Dashboard 1
+  ### DryBox Dashboard
   
-  ![SmartLock](https://github.com/SmartGanjaGarden/SmartGanjaGarden.grafana/blob/main/src/images/DryBox_Dashboard_1.png "DryBox Dashboard 1")
+ | ![DryBoxDashboard 1](https://github.com/SmartGanjaGarden/SmartGanjaGarden.grafana/blob/main/src/images/DryBox_Dashboard_1.png "DryBox Dashboard 1") | ![DryBoxDashboard 2](https://github.com/SmartGanjaGarden/SmartGanjaGarden.grafana/blob/main/src/images/DryBox_Dashboard_2.png "DryBox Dashboard 2")
 
 </details>
 </details>
